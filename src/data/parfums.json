@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "nom": "Dior Sauvage",
+    "description": "Parfum masculin intense et frais avec des notes de bergamote et d'ambroxan.",
+    "prix": "89€",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Homme"
+  },
+  {
+    "id": 2,
+    "nom": "Chanel Coco Mademoiselle",
+    "description": "Élégance féminine et légèreté florale avec des accords de rose et de patchouli.",
+    "prix": "119€",
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59d75?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Femme"
+  },
+  {
+    "id": 3,
+    "nom": "Paco Rabanne 1 Million",
+    "description": "Un parfum audacieux pour les hommes charismatiques aux notes épicées et boisées.",
+    "prix": "75€",
+    "image": "https://images.unsplash.com/photo-1594736797933-d0cc2fee0f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Homme"
+  },
+  {
+    "id": 4,
+    "nom": "Tom Ford Black Orchid",
+    "description": "Parfum unisexe mystérieux et sensuel aux notes de truffe noire et d'orchidée.",
+    "prix": "145€",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Unisexe"
+  },
+  {
+    "id": 5,
+    "nom": "Yves Saint Laurent Black Opium",
+    "description": "Parfum féminin addictif aux notes de café noir, vanille et fleur d'oranger.",
+    "prix": "95€",
+    "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Femme"
+  },
+  {
+    "id": 6,
+    "nom": "Creed Aventus",
+    "description": "Parfum masculin de prestige aux notes de bergamote, ananas et bois de santal.",
+    "prix": "299€",
+    "image": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    "categorie": "Homme"
+  }
+]
