@@ -10,7 +10,6 @@ const Index = () => {
     <div className="min-h-screen bg-white">
       <Navigation />
       
-      {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center hero-gradient">
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
@@ -21,10 +20,10 @@ const Index = () => {
         
         <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
           <div className="animate-fade-in">
-            <Sparkles className="h-16 w-16 text-gold-500 mx-auto mb-6 animate-scale-in" />
+            <Sparkles className="h-16 w-16 text-yellow-500 mx-auto mb-6 animate-scale-in" />
             <h1 className="font-playfair text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Révélez votre 
-              <span className="text-gold-600 block">élégance</span>
+              <span className="text-yellow-600 block">élégance</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-700 mb-8 font-light">
               Parfums d'exception
@@ -41,14 +40,13 @@ const Index = () => {
         </div>
       </section>
 
-      {/* À propos Section */}
       <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16 animate-fade-in">
             <h2 className="font-playfair text-3xl sm:text-4xl font-bold text-gray-900 mb-6">
               À propos de nous
             </h2>
-            <div className="w-24 h-1 bg-gold-500 mx-auto mb-8"></div>
+            <div className="w-24 h-1 bg-yellow-500 mx-auto mb-8"></div>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
               Découvrez notre collection soigneusement sélectionnée de parfums d'exception. 
               Nous vous proposons les plus grandes marques de parfumerie pour révéler votre 
@@ -58,8 +56,8 @@ const Index = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
-              <div className="bg-gold-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Award className="h-8 w-8 text-gold-600" />
+              <div className="bg-yellow-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Award className="h-8 w-8 text-yellow-600" />
               </div>
               <h3 className="font-playfair text-xl font-semibold text-gray-900 mb-3">
                 Qualité Premium
@@ -70,8 +68,8 @@ const Index = () => {
             </div>
 
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-              <div className="bg-gold-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Heart className="h-8 w-8 text-gold-600" />
+              <div className="bg-yellow-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Heart className="h-8 w-8 text-yellow-600" />
               </div>
               <h3 className="font-playfair text-xl font-semibold text-gray-900 mb-3">
                 Service Personnalisé
@@ -82,8 +80,8 @@ const Index = () => {
             </div>
 
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
-              <div className="bg-gold-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Sparkles className="h-8 w-8 text-gold-600" />
+              <div className="bg-yellow-50 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                <Sparkles className="h-8 w-8 text-yellow-600" />
               </div>
               <h3 className="font-playfair text-xl font-semibold text-gray-900 mb-3">
                 Élégance Assurée
