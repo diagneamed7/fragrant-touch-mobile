@@ -174,7 +174,7 @@ html {
 /* Amélioration de la lisibilité sur mobile */
 @media (max-width: 640px) {
   .perfume-card {
-    @apply hover:scale-102; /* Effet hover plus subtil sur mobile */
+    @apply hover:scale-105; /* Fixed: Changed from hover:scale-102 to hover:scale-105 */
   }
   
   .btn-gold {
